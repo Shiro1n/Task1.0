@@ -66,7 +66,7 @@
     -->
 
     <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
-        <h4 id="list-item-1">Item 1</h4>
+        <h4 id="list-item-1">içerik 1</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
             magna aliqua. Laoreet id donec ultrices tincidunt arcu. Turpis massa sed elementum tempus egestas sed sed.
             Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Non enim praesent elementum
@@ -77,7 +77,7 @@
             diam. Aliquet bibendum enim facilisis gravida neque convallis a cras. Vitae proin sagittis nisl rhoncus
             mattis rhoncus urna neque. Etiam erat velit scelerisque in dictum non consectetur a erat. Sed risus pretium
             quam vulputate.</p>
-        <h4 id="list-item-2">Item 2</h4>
+        <h4 id="list-item-2">içerik 2</h4>
         <p>In hendrerit gravida rutrum quisque non tellus orci ac. Cursus in hac habitasse platea dictumst quisque
             sagittis. Justo nec ultrices dui sapien eget mi proin. Suspendisse in est ante in nibh mauris. Condimentum
             vitae sapien pellentesque habitant morbi tristique senectus et netus. Interdum posuere lorem ipsum dolor sit
@@ -89,7 +89,7 @@
             quis eleifend quam. Aenean sed adipiscing diam donec adipiscing tristique. Egestas sed sed risus pretium
             quam vulputate dignissim. Porttitor massa id neque aliquam. Adipiscing at in tellus integer feugiat
             scelerisque.</p>
-        <h4 id="list-item-3">Item 3</h4>
+        <h4 id="list-item-3">içerik 3</h4>
         <p>Leo integer malesuada nunc vel risus commodo viverra maecenas accumsan. Pulvinar elementum integer enim
             neque. Commodo ullamcorper a lacus vestibulum sed arcu non odio euismod. Fermentum et sollicitudin ac orci
             phasellus egestas tellus rutrum. Augue eget arcu dictum varius duis. Vulputate ut pharetra sit amet aliquam.
@@ -98,7 +98,7 @@
             egestas purus viverra accumsan. Id consectetur purus ut faucibus pulvinar elementum. Sed risus pretium quam
             vulputate. Aliquet risus feugiat in ante metus dictum. Tincidunt id aliquet risus feugiat. Semper feugiat
             nibh sed pulvinar proin gravida hendrerit lectus a.</p>
-        <h4 id="list-item-4">Item 4</h4>
+        <h4 id="list-item-4">içerik 4</h4>
         <p>Auctor augue mauris augue neque gravida in fermentum et sollicitudin. Molestie nunc non blandit massa enim
             nec dui nunc. Dui ut ornare lectus sit amet est placerat in egestas. Quisque sagittis purus sit amet
             volutpat consequat mauris nunc congue. Donec ac odio tempor orci dapibus ultrices in iaculis. Ornare arcu
